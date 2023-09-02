@@ -7,6 +7,6 @@ My interests are currently in Full Stack Development and Cloud Computing.
 
 I enjoy listening to all kinds of music, making coffee and playing old video games in my free time! :coffee::space_invader:
 
-If you'd like to work with me or ask any questions, please reach out to me via my email at -   [gabriel.ong@u.nus.edu](mailto:Gabriel.ong@u.nus.edu). :email:
+If you'd like to work with me or ask any questions, please reach out to me via my email at -   [q.gabriel.ong@gmail.com](mailto:q.gabriel.ong@gmail.com). :email:
 
 Please check out some of the projects I've pinned below! :blush:
